@@ -1,4 +1,4 @@
-# CSNZ-CSNS-Tradu-o-Para-Portugu-s-Brasil
+# CSNZ-CSNS-Tradução-Para-Português-Brasil
 
 CSN Tradutor - Português BR
 
