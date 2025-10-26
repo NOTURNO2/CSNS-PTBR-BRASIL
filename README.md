@@ -19,6 +19,7 @@ Steam configurado em Português de Portugal (nas configurações do Steam).
 Sistema Windows.
 
 Como usar
+![Image](https://github.com/user-attachments/assets/199afb11-2972-4123-a62d-efa7dbed88e2)
 
 Coloque o programa na área de trabalho.
 
