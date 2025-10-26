@@ -31,6 +31,8 @@ Etapa 2: Baixa automaticamente as dependências do projeto.
 
 Etapa 3: O jogo estará traduzido e pronto para ser executado.
 
+<img width="1019" height="798" alt="Image" src="https://github.com/user-attachments/assets/c0bbff45-01ea-41ab-aa73-f770f2fcd4c6" />
+
 Contato
 
 Para dúvidas, sugestões ou feedback, entre em contato pelo Discord:
